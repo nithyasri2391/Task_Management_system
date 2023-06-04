@@ -1,5 +1,5 @@
 # Task Management
-Requirements
+**Requirements**
 ****
 Python
 
@@ -9,7 +9,7 @@ HTML
 
 CSS
 ****
-Procedure
+**Procedure**
 ****
 Clone this repository and then
 
@@ -37,7 +37,7 @@ Run server
 Added ER diagram pdf in Task_management folder
 
 ****
-Results
+**Results**
 
 ****
 
