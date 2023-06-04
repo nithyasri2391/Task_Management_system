@@ -38,12 +38,13 @@ Added ER diagram pdf in Task_management folder
 
 ****
 Results
+
 ****
-![](C:\Users\ADJOINT4\PycharmProjects\Task_management\SS\11.png)
+
+![11](https://github.com/nithyasri2391/Task_Management_system/assets/133636338/ff0affc7-6580-4912-8e15-93d25065f6ab)
 
 
-![](C:\Users\ADJOINT4\PycharmProjects\Task_management\SS\22.png)
+![22](https://github.com/nithyasri2391/Task_Management_system/assets/133636338/b62c16be-a3cb-4fe9-aad7-81419a27e3b3)
 
 
-![](C:\Users\ADJOINT4\PycharmProjects\Task_management\SS\33.png)
-
+![33](https://github.com/nithyasri2391/Task_Management_system/assets/133636338/f7069a2f-ab59-41c4-b990-41541d66a649)
