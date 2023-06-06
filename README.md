@@ -20,7 +20,7 @@ First create and  activate virtual environment
     $ py -m venv venv
     $ cd venv/scripts
     $ .\activate
-    $ pip  install -r requirements.txt
+    $ pip  install django
 
 
     
